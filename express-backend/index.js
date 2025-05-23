@@ -13,7 +13,7 @@ app.use(express.json())
 
 app.post('/getWeather', async (req, res) => {
   const { location } = req.body
-  const apiKey = '8548924c33f1da9f441462d6e3942adc'
+  const apiKey = '8548924c33f1da9f441462d6XXXXXXX'
   const url = `https://api.openweathermap.org/data/2.5/weather?q=${location}&appid=${apiKey}&units=metric`
 
   try {
