@@ -34,6 +34,11 @@ A student-level full-stack weather application that allows users to:
 
 ---
 
+## ℹ️ Usage Notes
+
+- ⏳ **Weather Fetch Delay**  
+  Sometimes fetching live weather data from the OpenWeatherMap API may take a few seconds due to network or API response time. Please wait patiently while the data is being retrieved.
+
 ## 🚀 Getting Started (Run Locally)
 
 ### 1️⃣ Clone the Repository
@@ -85,6 +90,8 @@ frontend/
 - express-backend/ → Contains the working backend (Node.js + Express + MongoDB)
 - frontend/ → Contains the working frontend (React Weather UI)
     Please ignore any duplicate or similarly named folders unless explicitly mentioned.
+
+
 
 
 
