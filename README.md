@@ -75,6 +75,17 @@ Deployment Notes;-
 - The frontend can be deployed using Vercel or Netlify
 - Ensure that the backend endpoint (e.g., https://your-api.onrender.com) is used in the frontend instead of localhost
 
+  # Important Notes
+Note:
+- This project directory may contain older or unused folders like:
+backend/
+frontend/
+- These folders were part of earlier testing and are not required to run the final version of this project.
+✅ The correct folders you should use are:
+- express-backend/ → Contains the working backend (Node.js + Express + MongoDB)
+- frontend/ → Contains the working frontend (React Weather UI)
+    Please ignore any duplicate or similarly named folders unless explicitly mentioned.
+
 
 
 
