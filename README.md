@@ -92,6 +92,10 @@ frontend/
     Please ignore any duplicate or similarly named folders unless explicitly mentioned.
 
 
+## 🌐 Live App
+
+Try the live version here:  
+👉 [Weather App (Vercel)](https://weather-app-task-intern.vercel.app/)
 
 
 
